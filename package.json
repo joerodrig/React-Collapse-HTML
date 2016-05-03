@@ -16,14 +16,15 @@
     "react",
     "react-component",
     "text",
-    "truncate"
+    "truncate",
+    "html"
   ],
   "author": "Joerodrig3 <joerodrig3@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShinyChang/react-text-truncate/issues"
+    "url": "https://github.com/joerodrig3/React-Collapse-HTML/issues"
   },
-  "homepage": "https://github.com/ShinyChang/react-text-truncate",
+  "homepage": "https://github.com/joerodrig3/React-Collapse-HTML",
   "devDependencies": {
     "babel-cli": "^6.7.5",
     "babel-core": "^6.7.6",

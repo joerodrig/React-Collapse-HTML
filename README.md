@@ -3,14 +3,17 @@
 ## Install
 
 ```
-npm install react-html-truncate
+npm install react-collapse-html
 ```
+
+## Overview
+- TODO  
 
 ## Usage
 
 ```
-import TextTruncate from 'react-html-truncate'; // recommend
-var TextTruncate = require('react-html-truncate'); // CommonJS or UMD
+import CollapseHTML from 'react-collapse-html'; // recommend
+var CollapseHTML = require('react-collapse-html'); // CommonJS or UMD
 ```
 
 ## Markup
