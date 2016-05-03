@@ -1,7 +1,7 @@
 {
   "name": "react-html-truncate",
-  "version": "0.6.0",
-  "description": "Truncate HTML for React.js",
+  "version": "0.0.1",
+  "description": "Collapse HTML for React.js",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src/CollapseHTML.js.jsx -o lib/index.js",
