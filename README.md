@@ -1,13 +1,12 @@
-# React-Truncate-Text [![npm version](https://badge.fury.io/js/react-text-truncate.svg)](https://badge.fury.io/js/react-text-truncate)
+# react-collapse-html [![npm version](https://badge.fury.io/js/react-text-truncate.svg)](https://badge.fury.io/js/react-text-truncate)
+react-collapse-html is a React component built for truncating bodies of html text.  
+
 
 ## Install
 
 ```
 npm install react-collapse-html
 ```
-
-## Overview
-- TODO  
 
 ## Usage
 
@@ -29,8 +28,5 @@ var CollapseHTML = require('react-collapse-html'); // CommonJS or UMD
 	targetElement="p"
 />
 ```
-
-[Demo]
-
 
 ## Changelog
