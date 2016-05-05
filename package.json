@@ -1,5 +1,5 @@
 {
-  "name": "react-html-truncate",
+  "name": "react-collapse-html",
   "version": "0.0.1",
   "description": "Collapse HTML for React.js",
   "main": "lib/index.js",

@@ -6,13 +6,16 @@ export default class CollapseHTML extends Component {
     this.state = {collapsed: true};
   }
 
-  // static defaultProps = {
-  //     text: '',
-  //     truncateText: '…',
-  //     line: 1,
-  //     showTitle: true,
-  //     raf: true
-  // };
+  static defaultProps = {
+    charLimit: 80,
+    containerClass: "truncate-html-container",
+    innerClass: "truncate-html-container-innerclass",
+    innerClass: "truncate-html-container-innerclass",
+    buttonToggleClass: "clickable-button",
+    targetElement: "p"
+  };
+
+
   _renderHTML() {
     let truncatedFirstElement;
     const {html, charLimit, targetElement} = this.props;

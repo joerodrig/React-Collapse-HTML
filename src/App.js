@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import CollapseHTML from './CollapseHTML.js.jsx';
+import React, {Component} from "react";
+import CollapseHTML from "./CollapseHTML.js.jsx";
 
 export class App extends Component {
   render() {
