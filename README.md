@@ -23,7 +23,6 @@ var CollapseHTML = require('react-collapse-html'); // CommonJS or UMD
 	charLimit={80}
 	containerClass="truncate-html-container"
 	innerClass="truncate-html-container-innerclass"
-	innerClass="truncate-html-container-innerclass"
 	buttonToggleClass="clickable-button"
 	targetElement="p"
 />
